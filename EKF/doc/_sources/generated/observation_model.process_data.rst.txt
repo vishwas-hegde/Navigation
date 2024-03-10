@@ -1,0 +1,6 @@
+observation\_model.process\_data
+================================
+
+.. currentmodule:: observation_model
+
+.. autofunction:: process_data

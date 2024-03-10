@@ -1,0 +1,6 @@
+observation\_model.estimate\_pose
+=================================
+
+.. currentmodule:: observation_model
+
+.. autofunction:: estimate_pose

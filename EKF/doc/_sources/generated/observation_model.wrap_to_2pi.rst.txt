@@ -1,0 +1,6 @@
+observation\_model.wrap\_to\_2pi
+================================
+
+.. currentmodule:: observation_model
+
+.. autofunction:: wrap_to_2pi

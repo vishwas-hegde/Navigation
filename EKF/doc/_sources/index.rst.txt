@@ -1,0 +1,32 @@
+.. ObservationModel documentation master file, created by
+   sphinx-quickstart on Sun Oct 22 19:23:45 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Observation Model Documentation
+==============================================
+
+Use this module as a stand in for your own implementation of the observation model for the Nonlinear Kalamn Filter or Particle Filter project. While developing measurement models is related to the navigation problems we deal with in this course, an in depth exploration of this is outside the scope of this course. As such, I only wish to evaluate it on one project and enable you to still complete the project without implementing a perception model to earn at least partial credit. Additionaly, it will atleast allow you to have a comparison.
+
+To use this pre-compiled version, have the `.pyc` file included in the same directory as the code you are developing for this project. Import it into your project as `obs_model` for example: 
+
+>>> import observation_model as obs_model
+
+This will encapsulate it in an appropriate name space and allow you to simultaneously develop your own version to compare it to by developing another module with the prescribed function names.
+
+You can see the proper documentation by clicking on the module link below.
+
+On a different note: the HTML documentation for this module was created using Sphinx. The docstrings in the raw code have a specific formatting that allows for automatic HTML generation! One of the many reasons that properly documenting your code is very important and habit that I like to force people to build.
+
+.. autosummary:: 
+    :toctree: generated
+    :template: custom-module-template.rst
+   observation_model
+   
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

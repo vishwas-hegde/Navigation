@@ -1,0 +1,6 @@
+observation\_model.euler\_to\_rotation\_matrix
+==============================================
+
+.. currentmodule:: observation_model
+
+.. autofunction:: euler_to_rotation_matrix

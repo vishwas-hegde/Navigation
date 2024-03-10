@@ -1,0 +1,6 @@
+observation\_model.rotation\_matrix\_x
+======================================
+
+.. currentmodule:: observation_model
+
+.. autofunction:: rotation_matrix_x

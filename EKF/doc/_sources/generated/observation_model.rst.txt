@@ -1,0 +1,38 @@
+﻿observation\_model
+==================
+
+.. automodule:: observation_model
+  
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+   .. autosummary::
+      :toctree:                             
+   
+      estimate_pose
+      euler_from_rvec
+      euler_to_rotation_matrix
+      process_data
+      rotation_matrix_to_euler
+      rotation_matrix_x
+      rotation_matrix_y
+      rotation_matrix_z
+      wrap_to_2pi
+      wrap_to_pi
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

@@ -1,0 +1,6 @@
+observation\_model.euler\_from\_rvec
+====================================
+
+.. currentmodule:: observation_model
+
+.. autofunction:: euler_from_rvec
